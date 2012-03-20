@@ -1,2 +1,5 @@
 Used to pull data from reddit using the Reddit API.
 The long term plan is to be able to browse reddit from the command line
+
+http example some of this is pulled from
+http://coding.debuntu.org/c-linux-socket-programming-tcp-simple-http-client

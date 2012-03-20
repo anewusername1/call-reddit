@@ -9,7 +9,6 @@ int main(int argc, char **argv){
   char *get;
   char buf[BUFSIZ+1];
   char *host = "www.reddit.com";
-  char *page;
   char *subreddit = "askreddit";
 
   if(argc > 1)
