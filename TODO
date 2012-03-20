@@ -1,0 +1,1 @@
+- Implement a die_with_error method to be called anywhere we need to print an error and exit
